@@ -1,4 +1,4 @@
-# Unbricking iPod Classig 1G without iTunes
+# Unbricking iPod Classiс 1G without iTunes
 ## Files/Tools Needed
 
 - [mks5lboot 64-Bit](files/mks5lboot64.exe) or [mks5lboot 32-Bit](files/mks5lboot32.exe)
